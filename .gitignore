@@ -1,3 +1,25 @@
+# local 2025-11-02
+*.csv
+*secret*
+*.key
+*.pem
+lob_*
+old.*
+old_*
+*_bak.*
+*.bak
+*.backup
+*.db
+*.sqlite3
+*.log
+*.env
+.env.*
+*local*.txt
+*local*.sh
+*local*.py
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
